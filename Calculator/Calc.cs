@@ -1,4 +1,4 @@
-﻿namespace SimpleCalc
+﻿namespace Calc
 {
     public static class Calculator
     {
